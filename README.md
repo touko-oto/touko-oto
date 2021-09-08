@@ -16,3 +16,7 @@ My hobbies include listening to anime songs and watching anime, and I am a genui
 # My website
 
 [学校を出よう！ファンサイト](https://escape-from-the-school.asterisk-interceptor.net/) Powered by GitHub Pages  
+
+# My favorite anime
+
+[お気に入りアニメ一覧](https://github.com/touko-oto/my-favorite-anime) by GitHub Repository  
