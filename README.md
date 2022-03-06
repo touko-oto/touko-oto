@@ -12,6 +12,9 @@ Graduated from Kinki University, Faculty of Science and Technology. After many t
 I'm learning web technologies (Javascript, etc.) because I've been doing only ERP maintenance recently. The reason why I am writing my profile on Github is to learn about development methods.  
 My hobbies include listening to anime songs and watching anime, and I am a genuine otaku. When I was in elementary school, I touched Windows 98 for the first time, and that may have been the turning point of my life.
 
+# My blog
+
+[透湖とねことITと](https://blog.asterisk-interceptor.net/) Powered by Star Server (CMS: WordPress) 
 
 # My website
 
