@@ -8,13 +8,13 @@
 
 ## EN
 
-Graduated from Kinki University, Faculty of Science and Technology. After many twists and turns, I am now in charge of maintenance, operation and development of mission-critical systems based in Kansai (especially Osaka). Teleworking, female, in her 30s.  
+Graduated from Kindai University, Faculty of Science and Engineering. After many twists and turns, I am now in charge of maintenance, operation and development of mission-critical systems based in Kansai (especially Osaka). Teleworking, female, in her 30s.  
 I'm learning web technologies (Javascript, etc.) because I've been doing only ERP maintenance recently. The reason why I am writing my profile on Github is to learn about development methods.  
 My hobbies include listening to anime songs and watching anime, and I am a genuine otaku. When I was in elementary school, I touched Windows 98 for the first time, and that may have been the turning point of my life.
 
 # My blog
 
-[透湖とねことITと](https://blog.asterisk-interceptor.net/) Powered by Star Server (CMS: WordPress) 
+[透湖とねことITと](https://blog.clear-lake.net/) Powered by Vercel (CMS: microCMS) 
 
 # My website
 
